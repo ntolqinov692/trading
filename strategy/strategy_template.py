@@ -1,0 +1,1 @@
+print('strategy template loaded')

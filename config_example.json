@@ -1,0 +1,4 @@
+{
+  "symbols": ["EURUSD", "GBPJPY", "XAUUSD"],
+  "timeframes": ["M15", "H1"]
+}
